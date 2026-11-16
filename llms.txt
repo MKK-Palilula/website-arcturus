@@ -1,0 +1,10 @@
+# Arcturus
+
+> Arcturus is a set of experimental AI-powered tools from MKK Palilula. They aren't public yet, and there's no release date. More information will be published on this site when it's ready.
+
+MKK Palilula is a company that develops software and electronic devices.
+
+## Links
+
+- [Arcturus](https://arcturus.mkk-palilula.com/): this site, a placeholder until Arcturus is public
+- [MKK Palilula](https://mkk-palilula.com/): the company that makes Arcturus

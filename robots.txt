@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arcturus.mkk-palilula.com/sitemap.xml
